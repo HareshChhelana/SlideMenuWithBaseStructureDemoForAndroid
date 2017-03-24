@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "428877114549",
+    "firebase_url": "https://demo.firebaseio.com",
+    "project_id": "demo",
+    "storage_bucket": "demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428877114549:android:67b2276192f599ef",
+        "android_client_info": {
+          "package_name": "com.slidemenubasestructuredemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428877114549-ppeio0lvrgp71844t9mlen1r70tp3hfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIFwZPL018FqBD9bEwfIJXJRByPAVwsqc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

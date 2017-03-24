@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/screen1"
+            android:icon="@mipmap/ic_launcher"
+            android:title="First Screen"/>
+        <item
+            android:id="@+id/screen2"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Second Screen"/>
+        <item
+            android:id="@+id/screen3"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Third Screen"/>
+        <item
+            android:id="@+id/screen4"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Fourth Screen"/>
+        <item
+            android:id="@+id/screen5"
+            android:icon="@mipmap/ic_launcher"
+            android:title="Fifth Screen"/>
+    </group>
+
+
+</menu>

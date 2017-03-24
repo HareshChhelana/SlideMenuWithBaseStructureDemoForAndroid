@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SlideMenuBaseStructureDemo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Crash -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="application_crashed">Application Crashed!!!</string>
+    <string name="crash_log_message">Would you help %s improve by sending this crash message to the developer team?</string>
+    <string name="error_log_receiver">email</string>
+    <string name="no_activity_found_handle_action">No email client found to handle such action.</string>
+</resources>
